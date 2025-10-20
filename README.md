@@ -6,7 +6,7 @@ Outra tarefa, consumidora, lê os valores e calcula a **média das últimas 5 me
 
 ---
 
-## Para executar
+## Para executar o projeto
 
 Clone o repositório e compile o projeto com o ESP-IDF
 
