@@ -1,4 +1,4 @@
-# ESP32 DHT11 Queue Project
+# DHT11 com Filas
 
 Este projeto faz uso de **filas (queues)** para comunicação entre tarefas.  
 Uma tarefa produtora lê os valores de **temperatura e umidade** do sensor **DHT11** e envia os dados para a fila.  
